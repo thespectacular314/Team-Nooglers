@@ -38,6 +38,7 @@ To run this project, you'll need the following libraries:
 - timm
 - OpenCV
 - PIL
+- OneDNN
 
 ## Contributing
   Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this project. 
